@@ -1,0 +1,17 @@
+header {
+    text-align: center;
+    font-family: 'Boogaloo', cursive;
+    font-size: 56px;
+    height: 225px;
+    max-width: 100%;
+}
+
+#footer-tag {
+    font-size: 12px;
+}
+
+#apple {
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+}
