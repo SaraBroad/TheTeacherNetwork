@@ -1,0 +1,24 @@
+{
+  "name": "theteachernetwork",
+  "version": "1.0.0",
+  "description": "The Teacher Network is a website that connects Philadelphia school teachers with the community and the community with school teachers.  On the teacher side, this site is intended to be a resource for teachers to use to obtain supplies, connect with community organizations and corporations, and to provide a forum to exchange ideas between teachers and community members. On the community/corporation sides, businesses and organizations can offer extra supplies and let teachers know what resources, like internships or community partnerships, are available to teachers.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaraBroad/TheTeacherNetwork.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaraBroad/TheTeacherNetwork/issues"
+  },
+  "homepage": "https://github.com/SaraBroad/TheTeacherNetwork#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
