@@ -3,7 +3,6 @@ header {
     font-family: 'Boogaloo', cursive;
     font-size: 56px;
     height: 225px;
-    max-width: 100%;
 }
 
 #footer-tag {
@@ -14,4 +13,10 @@ header {
     width: 100px;
     height: 100px;
     margin-top: 20px;
+}
+
+#contact-form {
+    width: 500px;
+    margin-left: 400px;
+    margin-top: 50px;
 }
