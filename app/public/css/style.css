@@ -20,3 +20,15 @@ header {
     margin-left: 400px;
     margin-top: 50px;
 }
+
+#about-us {
+    width: 300px;
+    height: 315px;
+    border: 1px solid black;
+    margin-left: 50px;
+    padding: 10px;
+}
+
+h3 {
+    text-align: center;
+}
