@@ -19,6 +19,8 @@
   "homepage": "https://github.com/SaraBroad/TheTeacherNetwork#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "express": "^4.16.3"
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "moment": "^2.22.1"
   }
 }
