@@ -5,4 +5,5 @@ module.exports = function(sequelize, DataTypes) {
         position: DataTypes.STRING(45),
         message: DataTypes.STRING(255)
     })
+    return Contact;
 }
