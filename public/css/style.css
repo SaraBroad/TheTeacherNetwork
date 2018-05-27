@@ -2,7 +2,7 @@ header {
     text-align: center;
     font-family: 'Boogaloo', cursive;
     font-size: 56px;
-    height: 150px;
+    max-height: 150px;
 }
 
 #footer-tag {
@@ -31,4 +31,10 @@ header {
 
 h3 {
     text-align: center;
+}
+
+img {
+    margin-left: 460px;
+    width: 300px;
+    height: 200px;
 }
